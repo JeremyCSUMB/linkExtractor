@@ -12,8 +12,8 @@ Ensure you have Python 3 installed on your machine. You will also need to instal
 
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/your-username/linkedin-url-extractor.git
-   cd linkedin-url-extractor
+   git clone https://github.com/jeremyCSUMB/linkExtractor
+   cd linkExtractor
    ```
 
 2. **Install the Required Python Libraries:**
@@ -31,7 +31,7 @@ Ensure you have Python 3 installed on your machine. You will also need to instal
 ## Usage
 
 1. **Update Course and Discussion Topic IDs:**
-   Open the script file `linkedin_link_extractor.py` and update the `course_id` and `discussion_topic_id` variables with the appropriate values from your Canvas course.
+   Open the script file `linkExtractor.py` and update the `course_id` and `discussion_topic_id` variables with the appropriate values from your Canvas course.
 
 2. **Run the Script:**
    ```sh
