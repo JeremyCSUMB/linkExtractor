@@ -35,7 +35,7 @@ Ensure you have Python 3 installed on your machine. You will also need to instal
 
 2. **Run the Script:**
    ```sh
-   python3 linkedin_link_extractor.py
+   python3 linkExtractor.py
    ```
 
 3. **Output:**
